@@ -1,4 +1,4 @@
-# Day 1 Activities
+# Day 2 Activities
 
 1. **Christ the Redeemer monument:** 1 hour from hotel, 30 dollar tickets per adult
 

@@ -5,3 +5,8 @@ and we have a substantial budget
 because we would be checking out on the third day
 -This hotel is right on the beach and has alot of popular bars right on the private hotel beach. 
 -There are multiple restaurants to choose from and each one is special in its own way.
+
+Feel free to checkout the location for yourself using the link below:
+
+Link to hotel website: https://www.belmond.com/hotels/south-america/brazil/rio-de-janeiro/belmond-copacabana-palace/
+

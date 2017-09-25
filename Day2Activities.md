@@ -7,9 +7,10 @@
 		
 
 1. **Arpoador Beach** 3.6 km from hotel, free 
+
 	reasonable to expect 3 hours total visit time
 
-	   
+
 	   
 1. **Theatro Municipal do Rio de Janeiro:** 10.3 km from hotel, free to view
 

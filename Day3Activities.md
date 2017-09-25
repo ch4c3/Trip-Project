@@ -1,6 +1,10 @@
+# Day 3 Activities
+
 1. **Sugarloaf Mountains:** 1 hour 44 min avg time to top of mountain, $18.10 cable car tickets per person
   	
     6 hours total time, $90.50 for 5 tickets
+    
+    7:00 AM - 1:00 PM
     
     Most recognized natural landmark in Rio. Cable car ride to the top and down with some exploration on top.
     
@@ -8,5 +12,7 @@
 1. **Tijuca Rainforest Hiking Tour** 1.5 hour hike with 2 hours travel time round trip (shuttle pick up from hotel)
 
     3.5 hours total trip, $430 for 5 tickets
+    
+    4:00 PM - 7:30 PM
 
     Nice hiking trail through a scenic South American climate.

@@ -1,3 +1,5 @@
+# Day 4 Activities
+
 1. **Jardim Botanica** 7.3 km from hotel, tickets $38 per person
     
     likely spend 2.5 hours, spend $190 on tickets

@@ -15,4 +15,4 @@ Dinner at Alfaia (http://www.restaurantealfaia.com.br/)
 * Really good reviews
 * Little Pricey: Around $40 a person = $200
 
-Total $285
+**Total $285**

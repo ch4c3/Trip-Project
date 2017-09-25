@@ -1,5 +1,5 @@
 # Transportation Day 1
-//get breakfast and lunch info
+
 
 1. We taking an Uber from our hotel to Sofá Café. The Uber is $5 to/from hotel.
 

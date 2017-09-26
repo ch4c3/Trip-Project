@@ -1,10 +1,46 @@
 # Trip-Project
 **Planning a graduation trip to Brazil for
-December 17th-21st**
-## Flight
+December 17th-21st with a $30,000 budget**
+## Flights   
+**December 16:**   
+5PM: Pick up Enteprise rental car ($295.72)
+
+  **Total $295.72**
+
+**December 17th**   
+12AM: Drive to O'Hare Airport from Columbia ($35.34)
+- 7 hour/400 mile drive
+- average price of gas in Illinois & Missouri = $2.356
+- tank size = 15 gallons
+- average mpg = 25mpg
+- one tank = 375 miles = $35.34
+
+7AM: Fly from Chicago to Rio de Janeiro ($1,780/person = $8,900 roundtrip)     
+
+  **Total $8,935.34**  
+
+**December 21st**
+
+2AM: Fly from Rio de Janeiro to Chicago     
+
+11PM: Drive to Columbia from O'Hare Airport ($35.34)
+
+ **Total $8,935.34**
+
+ *References:*
+Kayak Flights: https://www.kayak.com/flights/CHI-RIO/2017-12-17/2017-12-21/5adults
+
+![Flights](images/flight.png)
+![Car Rental](images/car_rental.png)
 
 ## Hotel
+**Dec 17th - Dec 21th**   
+- Name: [Belmond Copacabana Palace](https://www.belmond.com/hotels/south-america/brazil/rio-de-janeiro/belmond-copacabana-palace/)
+- Stay is $343 per night per person (5 people), therefore   $1715.00 per night as a group
+- This hotel is right on the beach and has alot of popular bars right on the private hotel beach.
+- There are multiple restaurants to choose from and each one is special in its own way.   
 
+  **Total $6860.00**
 ## Food
 **Dec 17:**    
 - Everyone brings a few snacks for the car ride and plane ride (around $10 a person) = $50
@@ -76,8 +112,28 @@ Cost: Around $15 - $20 a person = $90
 
   **Total $200**  
 
-//NEED TO FINISH  
+
 **Dec 21st:**
+
+Each Person Brings Snacks $10 a person = $50 total Also snacks provided on the plane (Free)
+
+Breakfast at Panama City Airport
+- Convenient
+- Everyone can get whatever they would like
+- Passes the time during the layover
+- Cost: around $10 a person = $50 total
+
+Lunch at Mexico City Airport
+- Same reasons as above
+- Cost: Around $10 a person = $50 total
+
+Late Dinner stop by Taco Bell on the drive home
+- Good Break from driving
+- Open Late
+- Cheap
+- Cost: Around $5 a person = $25
+
+  **Total $175**
 
 ## Activities
 **Dec 18th:**   
@@ -133,8 +189,11 @@ Museum of Tomorrow in Maua Square
 ## Transportation
 Most efficient option for transportation in Brazil is taking two Ubers throughout the entire trip  
 
-//NEED TO DO   
+
 **Dec 17th:**   
+- Uber from hotel to airport  
+**Total: $18**
+
 
 **Dec 18th:**
 - Uber to Sofá café from hotel roundtrip: $10
@@ -164,10 +223,12 @@ Most efficient option for transportation in Brazil is taking two Ubers throughou
 
   **Total $116**   
 
-//NEED TO DO   
+
 **Dec 21st:**
+- Uber from hotel to Airport
+**Total $18**
 
 [Uber Fare Estimator](https://www.uber.com/fare-estimate/)
-#  Total Cost:
+#  Total Cost:$27,457.40
 
-# Total Budget Used:
+# Total Budget Used: 91.5%

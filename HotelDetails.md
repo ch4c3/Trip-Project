@@ -1,3 +1,5 @@
+Dec 17th - Dec 21th
+
 -We decided to switch from Hilton to the Belmond Copacabana Palace, since it is our graduation trip 
 and we have a substantial budget
 
